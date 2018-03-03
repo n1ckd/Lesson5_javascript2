@@ -13,8 +13,7 @@ Nicholas D'Angelo
 Using if else statements we make a tax calculator that uses a persons income and householdsize to determine their tax bracket and tax rate.
 
 ### View Project:
-Replace this statement with your Github Page URL that was created when you 
- published the project.
+https://n1ckd.github.io/Lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
 1. We learned to use multiple If / if else statements 
