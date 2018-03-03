@@ -294,8 +294,8 @@ function clearButton () {
               document.getElementById("filingStatus").selectedIndex = 0;
               
              //INSERT YOUR CODE BELOW
-               document.getElementById("taxBracket").;
-               document.getElementById("taxEstimate").;
+               document.getElementById("taxBracket").innerHTML ="";
+               document.getElementById("taxEstimate").innerHTML ="";
 
 
 
